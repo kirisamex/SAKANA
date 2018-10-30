@@ -1,0 +1,1 @@
+http://live.lcv.ne.jp/cgi-bin/road/movie.php?area_id=1&camera_id=1
